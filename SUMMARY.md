@@ -5,4 +5,5 @@
 
 ## 사용가능한 기능목록
 
-* [응모내역 보기](undefined/undefined.md)
+* [1. 응모내역 보기](undefined/1..md)
+* [2. 이벤트 응모자수 표시](undefined/2..md)
