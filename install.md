@@ -7,7 +7,7 @@
 
 
 
-📌 [<mark style="color:red;">**설치 메뉴얼 다운로드**</mark>](https://softer098.cafe24.com/pdf/install\_menual.pdf)<mark style="color:red;">****</mark>
+[📌 <mark style="color:red;">**설치 메뉴얼 다운로드**</mark>](https://onlineraffle.co.kr/pdf/install\_menual.pdf)<mark style="color:red;">****</mark>
 
 위 버튼을 클릭하시여 설치 메뉴얼을 다운로드 받으실 수 있습니다.
 
