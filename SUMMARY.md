@@ -1,6 +1,6 @@
 # Table of contents
 
-* [❤ 시작하기 전에](README.md)
+* [❤ 셀프 커스터마이징 가이드](README.md)
 
 ## 위젯 <a href="#widget" id="widget"></a>
 
