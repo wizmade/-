@@ -9,5 +9,4 @@
 
 ## API
 
-* [응모내역](api/raffle\_list.md)
-* [이벤트 응모자수](api/raffle\_count.md)
+* [Beta 단계인 API](api/raffle\_list.md)
