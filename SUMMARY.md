@@ -1,7 +1,6 @@
 # Table of contents
 
-* [1. 시작하기](README.md)
-* [2. 온라인 레플 설치하기](install.md)
+* [❤ 시작하기 전에](README.md)
 
 ## 위젯 <a href="#widget" id="widget"></a>
 
